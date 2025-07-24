@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.dashboard-list {
+  margin-top: 2em;
+}
+
+.user-progress {
+  margin-bottom: 1.5em;
+}
+
+/* More accessible and visual styles to be added as needed */
